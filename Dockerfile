@@ -2,7 +2,7 @@ ARG ALPINE_VERSION=edge
 
 FROM alpine:${ALPINE_VERSION}
 
-ARG ZT_VERSION=1.12.2
+ARG ZT_VERSION=1.12.0
 
 LABEL maintainer="seedgou <seedgou@gmail.com>"
 
